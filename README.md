@@ -23,6 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##Preview
-```
-![](preview/1.png)
+##Preview folder for Image preview
+

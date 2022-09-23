@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkcontact_organizer"]=self["webpackChunkcontact_organizer"]||[]).push([[443],{7381:function(n,t,a){a.r(t),a.d(t,{default:function(){return l}});var r=a(3396);const c={class:"about"},e=(0,r._)("h1",null,"This is an about page",-1),u=[e];function o(n,t){return(0,r.wg)(),(0,r.iD)("div",c,u)}var s=a(89);const i={},f=(0,s.Z)(i,[["render",o]]);var l=f}}]);
-//# sourceMappingURL=about.d62602bd.js.map
